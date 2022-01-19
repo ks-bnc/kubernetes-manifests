@@ -9,4 +9,4 @@ spec:
   ports:
     - port: 80
   selector:
-    app: "2048"
+    app: twentyfortyeight
